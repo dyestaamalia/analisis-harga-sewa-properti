@@ -1,7 +1,7 @@
 # 📊 Analisis Harga Sewa Properti
 
 ## Deskripsi
-Analisis ini bertujuan untuk mengidentifikasi faktor yang mempengaruhi harga sewa properti berdasarkan karakteristik seperti luas, jumlah kamar, dan fasilitas.
+Analisis ini bertujuan untuk mengidentifikasi faktor-faktor yang mempengaruhi harga sewa properti berdasarkan berbagai karakteristik utama, seperti luas properti, jumlah kamar tidur, jumlah kamar mandi, serta fasilitas yang tersedia. Pendekatan yang digunakan adalah exploratory data analysis (EDA) untuk memahami pola distribusi harga dan hubungan antar variabel. Melalui analisis ini, diharapkan dapat diperoleh insight yang membantu dalam memahami bagaimana setiap karakteristik berkontribusi terhadap penentuan harga sewa, serta memberikan dasar dalam pengambilan keputusan yang lebih tepat terkait strategi penetapan harga properti.
 
 ## Tujuan
 1. Mengidentifikasi faktor utama harga sewa
