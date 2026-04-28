@@ -9,9 +9,15 @@ Analisis ini bertujuan untuk mengidentifikasi faktor yang mempengaruhi harga sew
 3. Memberikan rekomendasi berbasis data
   
 ## 📊 Visualisasi
-- Hubungan Size dan Rent
-- Korelasi Antar Variabel
-- Distribusi Harga Sewa
+
+### 1. Hubungan Size dan Rent
+![Scatter](images/scatter_size_vs_rent.png)
+
+### 2. Korelasi Antar Variabel
+![Heatmap](images/heatmap_correlation.png)
+
+### 3. Distribusi Harga Sewa
+![Histogram](images/histogram_rent.png)
 
 ## 💡 Insight Utama
 - Luas properti memiliki pengaruh paling besar terhadap harga sewa
